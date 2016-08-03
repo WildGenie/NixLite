@@ -1,0 +1,6 @@
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\bin\Debug\Nix.dll
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\bin\Debug\Nix.pdb
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\bin\Debug\fasmdll_managed.dll
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\obj\Debug\Nix.csprojResolveAssemblyReference.cache
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\obj\Debug\Nix.dll
+C:\Users\Yann\Documents\visual studio 2015\Projects\Nix\Nix\obj\Debug\Nix.pdb
